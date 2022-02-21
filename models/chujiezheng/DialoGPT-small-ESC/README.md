@@ -1,0 +1,1 @@
+[DialoGPT-small](https://huggingface.co/microsoft/DialoGPT-small) fine-tuned on [Emotional Support Conversation](https://arxiv.org/pdf/2106.01144.pdf) dataset 

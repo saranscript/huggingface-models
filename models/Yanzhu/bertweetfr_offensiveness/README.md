@@ -1,0 +1,1 @@
+French roBERTa-base model fine-tuned for Offensive Language Identification on COVID-19 tweets.

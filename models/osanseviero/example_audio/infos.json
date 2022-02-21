@@ -1,0 +1,1 @@
+{"modelId": "osanseviero/example_audio", "sha": "eb09d91cb2c9bc64f5d12fdcefe7887f0d719f0e", "lastModified": "2022-01-21T08:48:05.000Z", "tags": ["audio-classification"], "pipeline_tag": "audio-classification", "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}, {"rfilename": "audio.wav"}], "config": null, "private": false, "downloads": 0, "likes": 0}

@@ -1,0 +1,1 @@
+{"modelId": "bigscience/tr3i-125M-v2-tensorboard", "sha": "497b719e9b76c57164f9c81592faca58b1b4d8cd", "lastModified": "2021-09-20T23:00:49.000Z", "tags": ["tensorboard"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "events.out.tfevents.1631663466.r12i2n8.46855.0"}], "config": null, "private": false, "downloads": 0, "likes": 0}

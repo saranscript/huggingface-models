@@ -1,0 +1,1 @@
+{"modelId": "zbmain/test", "sha": "1ba8a708cacf37af6ac60a21a87986afe61bfa7f", "lastModified": "2020-11-24T12:12:29.000Z", "tags": ["pytorch"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}, {"rfilename": "pytorch_model.bin"}], "config": null, "private": false, "downloads": 0, "likes": 0}

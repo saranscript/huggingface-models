@@ -1,0 +1,1 @@
+{"modelId": "vanessahahn/bert-fr-de-en-ar-twitter", "sha": "d69b1c2b7ab774664dc454acf8a8a92eaa521e3c", "lastModified": "2021-06-08T19:17:23.000Z", "tags": ["pytorch"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "pytorch_model.bin"}], "config": null, "private": false, "downloads": 0, "likes": 0}

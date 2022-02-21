@@ -1,0 +1,1 @@
+ktrain predictor for NER of ADR in patient forum discussions. Created in transformers > 3.0 and < 4. 0 & ktrain 0.19.9. 

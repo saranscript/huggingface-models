@@ -1,0 +1,1 @@
+{"modelId": "CodeNinja1126/bert-p-encoder", "sha": "c4fa4a4c50fb9ba9d7f2b41a848453cde831632a", "lastModified": "2021-05-12T01:26:46.000Z", "tags": ["pytorch"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "config.json"}, {"rfilename": "pytorch_model.bin"}], "config": null, "private": false, "downloads": 2, "likes": 0}

@@ -1,0 +1,1 @@
+{"modelId": "poseg/sbert", "sha": "08feca4687e7bd6c7556d6ed7be92cdb3ffd8cdf", "lastModified": "2021-09-05T18:34:14.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "bias_modified.pth"}], "config": null, "private": false, "downloads": 0, "likes": 0}

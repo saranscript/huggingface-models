@@ -1,0 +1,1 @@
+{"modelId": "nateraw/video-test", "sha": "7d5b670d7a00781ec63087ac2f638ac710542851", "lastModified": "2021-11-03T02:24:47.000Z", "tags": ["transformers"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "config.json"}], "config": {}, "private": false, "downloads": 1, "library_name": "transformers", "likes": 0}

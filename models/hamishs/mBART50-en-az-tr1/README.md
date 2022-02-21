@@ -1,0 +1,2 @@
+# mBart50 for Zeroshot Azerbaijani-Turkish Translation
+The mBart50 model is finetuned on English-Azerbaijani-Turkish translation leaving Az<->Tr as zeroshot directions. The method of tied representations is used to enforce alignment between semantically equivalent sentences leading to superior zeroshot performance.

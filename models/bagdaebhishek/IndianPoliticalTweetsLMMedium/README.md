@@ -1,0 +1,67 @@
+---
+language: en
+thumbnail: https://bagdeabhishek.github.io/twitterAnalysis_files/networkfin.jpg
+tags:
+- India
+- politics
+- tweets
+- BJP
+- Congress
+- AAP
+- pytorch
+- gpt2
+- lm-head
+- text-generation
+license: apache-2.0
+datasets:
+- Twitter
+- IndianPolitics
+---
+
+# Model name
+Indian Political Tweets LM Medium (Based on GPT2-Medium)
+
+## Model description
+
+This is a GPT2 Language model with LM head fine-tuned on tweets crawled from handles which belong predominantly to Indian Politics. For more information about the crawled data, you can go through this [blog](https://bagdeabhishek.github.io/twitterAnalysis) post.  
+
+This model is finetuned using GPT2-medium instead of the vanilla GPT2 implementation. This model has more parameters but it is able to model language slightly better. 
+
+## Intended uses & limitations
+ This finetuned model can be used to generate tweets which are related to Indian politics.
+#### How to use
+
+```python
+from transformers import AutoTokenizer,AutoModelWithLMHead,pipeline
+tokenizer = AutoTokenizer.from_pretrained("bagdaebhishek/IndianPoliticalTweetsLM")
+model = AutoModelWithLMHead.from_pretrained("bagdaebhishek/IndianPoliticalTweetsLM")
+
+text_generator = pipeline("text-generation",model=model, tokenizer=tokenizer)
+
+init_sentence = "India will always be"
+
+print(text_generator(init_sentence))
+
+```
+
+#### Limitations and bias
+1. The tweets used to train the model were not manually labelled, so the generated text may not always be in English. I've cleaned the data to remove non-English tweets but the model may generate "Hinglish" text and hence no assumptions should be made about the language of the generated text.
+2. I've taken enough care to remove tweets from twitter handles which are not very influential but since it's not curated by hand there might be some artefacts like "-sent via NamoApp" etc.
+3. Like any language model trained on real-world data this model also exhibits some biases which unfortunately are a part of the political discourse on Twitter. Please keep this in mind while using the output from this model.
+
+## Training data
+I used the pre-trained gpt2-medium model from Huggingface transformers repository and fine-tuned it on custom data set crawled from twitter. The method used to identify the political handles is mentioned in detail in a [blog](https://bagdeabhishek.github.io/twitterAnalysis) post. I used tweets from both the Pro-BJP and Anti-BJP clusters mentioned in the blog.
+
+## Training procedure
+
+For pre-processing, I removed tweets from handles which are not very influential in their cluster. I removed them by calculating Eigenvector centrality on the twitter graph and pruning handles which have this measure below a certain threshold. This threshold was set manually after experimenting with different values.
+
+I then separated tweets by these handles based on their language. I trained the LM with English tweets from both handles.
+
+### Hardware
+1. GPU: GTX 1080Ti
+2. CPU: Ryzen 3900x
+3. RAM: 32GB
+
+This model took roughly 36 hours to fine-tune. 
+

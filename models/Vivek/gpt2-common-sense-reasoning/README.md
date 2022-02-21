@@ -1,0 +1,1 @@
+This is to test the common sense reasoning of a GPT-2 model.To assess how intelligent or it is adapted to this datasets which requires not only big models but also a little common sense also.

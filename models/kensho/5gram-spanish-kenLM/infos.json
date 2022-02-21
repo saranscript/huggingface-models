@@ -1,0 +1,1 @@
+{"modelId": "kensho/5gram-spanish-kenLM", "sha": "8ec03793658dd95f2d98c6702b90dbf46c286610", "lastModified": "2021-11-12T11:26:01.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}, {"rfilename": "kenLM.arpa"}], "config": null, "private": false, "downloads": 0, "likes": 0}

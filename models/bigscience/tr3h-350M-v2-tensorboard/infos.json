@@ -1,0 +1,1 @@
+{"modelId": "bigscience/tr3h-350M-v2-tensorboard", "sha": "2adc54a6a10060986c87a60b21b078b52f0335d8", "lastModified": "2021-09-20T23:01:02.000Z", "tags": ["tensorboard"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "events.out.tfevents.1631663466.r12i0n0.24791.0"}], "config": null, "private": false, "downloads": 0, "likes": 0}

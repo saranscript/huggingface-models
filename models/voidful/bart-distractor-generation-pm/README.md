@@ -1,0 +1,39 @@
+---
+language: en
+tags:
+- bart
+- distractor
+- generation
+- seq2seq
+datasets:
+- race
+metrics:
+- bleu
+- rouge
+pipeline_tag: text2text-generation
+widget:
+- text: "When you ' re having a holiday , one of the main questions to ask is which hotel or apartment to choose . However , when it comes to France , you have another special choice : treehouses . In France , treehouses are offered to travelers as a new choice in many places . The price may be a little higher , but you do have a chance to _ your childhood memories . Alain Laurens , one of France ' s top treehouse designers , said , ' Most of the people might have the experience of building a den when they were young . And they like that feeling of freedom when they are children . ' Its fairy - tale style gives travelers a special feeling . It seems as if they are living as a forest king and enjoying the fresh air in the morning . Another kind of treehouse is the ' star cube ' . It gives travelers the chance of looking at the stars shining in the sky when they are going to sleep . Each ' star cube ' not only offers all the comfortable things that a hotel provides for travelers , but also gives them a chance to look for stars by using a telescope . The glass roof allows you to look at the stars from your bed . </s> The passage mainly tells us </s> treehouses in france."
+---
+# bart-distractor-generation-pm
+
+## Model description
+
+This model is a sequence-to-sequence distractor generator which takes an answer, question and context as an input, and generates a distractor as an output. It is based on a pretrained `bart-base` model.    
+This model trained with Parallel MLM refer to the [Paper](https://www.aclweb.org/anthology/2020.findings-emnlp.393/).   
+For details, please see https://github.com/voidful/BDG.
+
+## Intended uses & limitations
+
+The model is trained to generate examinations-style multiple choice distractor. The model performs best with full sentence answers.
+
+#### How to use
+
+The model takes concatenated context, question and answers as an input sequence, and will generate a full distractor sentence as an output sequence. The max sequence length is 1024 tokens. Inputs should be organised into the following format:
+```
+context </s> question </s> answer
+```
+The input sequence can then be encoded and passed as the `input_ids` argument in the model's `generate()` method.
+
+#### Limitations and bias
+
+The model is limited to generating distractor in the same style as those found in [RACE](https://www.aclweb.org/anthology/D17-1082/). The generated distractors can potentially be leading or reflect biases that are present in the context. If the context is too short or completely absent, or if the context, question and answer do not match, the generated distractor is likely to be incoherent.

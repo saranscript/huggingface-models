@@ -1,0 +1,1 @@
+{"modelId": "osanseviero/hubert_base", "sha": "1e45f8250d508e740729f75de37ac4af90ec0c30", "lastModified": "2021-07-27T10:38:14.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}, {"rfilename": "expert.py"}, {"rfilename": "model.pt"}], "config": null, "private": false, "downloads": 0, "likes": 2}

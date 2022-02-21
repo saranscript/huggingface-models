@@ -1,0 +1,1 @@
+Trained on Stephen King's top 50 books as .txt files. 

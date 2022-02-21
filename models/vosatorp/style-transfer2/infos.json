@@ -1,0 +1,1 @@
+{"modelId": "vosatorp/style-transfer2", "sha": "dd0f66d12b08f1b1b2f9a2447e097633b39b8139", "lastModified": "2021-12-20T23:18:31.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "mlm_negative.pth"}, {"rfilename": "mlm_positive.pth"}], "config": null, "private": false, "downloads": 0, "likes": 0}

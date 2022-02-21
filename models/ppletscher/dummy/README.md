@@ -1,0 +1,7 @@
+---
+language: fr
+---
+
+# Foo
+
+Bar

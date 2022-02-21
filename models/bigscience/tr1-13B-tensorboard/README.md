@@ -1,0 +1,1 @@
+These are tensorboard logs for https://github.com/bigscience-workshop/bigscience/tree/master/train/tr1-13B-base

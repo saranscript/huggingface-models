@@ -1,0 +1,1 @@
+Fine-tuned bert-base model for binary vossian antonomasia detection on sentence level.

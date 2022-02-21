@@ -1,0 +1,150 @@
+# Twitter September 2020 (RoBERTa-base, 103M)
+
+This is a RoBERTa-base model trained on 102.86M tweets until the end of September 2020.
+More details and performance scores are available in the [TimeLMs paper](https://arxiv.org/abs/2202.03829).
+
+Below, we provide some usage examples using the standard Transformers interface. For another interface more suited to comparing predictions and perplexity scores between models trained at different temporal intervals, check the [TimeLMs repository](https://github.com/cardiffnlp/timelms).
+
+For other models trained until different periods, check this [table](https://github.com/cardiffnlp/timelms#released-models).
+
+## Preprocess Text 
+Replace usernames and links for placeholders: "@user" and "http".
+If you're interested in retaining verified users which were also retained during training, you may keep the users listed [here](https://github.com/cardiffnlp/timelms/tree/main/data).
+```python
+def preprocess(text):
+    new_text = []
+    for t in text.split(" "):
+        t = '@user' if t.startswith('@') and len(t) > 1 else t
+        t = 'http' if t.startswith('http') else t
+        new_text.append(t)
+    return " ".join(new_text)
+```
+
+## Example Masked Language Model 
+
+```python
+from transformers import pipeline, AutoTokenizer
+
+MODEL = "cardiffnlp/twitter-roberta-base-sep2020"
+fill_mask = pipeline("fill-mask", model=MODEL, tokenizer=MODEL)
+tokenizer = AutoTokenizer.from_pretrained(MODEL)
+
+def print_candidates():
+    for i in range(5):
+        token = tokenizer.decode(candidates[i]['token'])
+        score = candidates[i]['score']
+        print("%d) %.5f %s" % (i+1, score, token))
+
+texts = [
+    "So glad I'm <mask> vaccinated.",
+    "I keep forgetting to bring a <mask>.",
+    "Looking forward to watching <mask> Game tonight!",
+]
+for text in texts:
+    t = preprocess(text)
+    print(f"{'-'*30}\n{t}")
+    candidates = fill_mask(t)
+    print_candidates()
+```
+
+Output: 
+
+```
+------------------------------
+So glad I'm <mask> vaccinated.
+1) 0.55215  not
+2) 0.16466  getting
+3) 0.08991  fully
+4) 0.05542  being
+5) 0.01733  still
+------------------------------
+I keep forgetting to bring a <mask>.
+1) 0.18145  mask
+2) 0.04476  book
+3) 0.03751  knife
+4) 0.03713  laptop
+5) 0.02873  bag
+------------------------------
+Looking forward to watching <mask> Game tonight!
+1) 0.53243  the
+2) 0.24435  The
+3) 0.04717  End
+4) 0.02421  this
+5) 0.00958  Championship
+```
+
+## Example Tweet Embeddings
+```python
+from transformers import AutoTokenizer, AutoModel, TFAutoModel
+import numpy as np
+from scipy.spatial.distance import cosine
+from collections import Counter
+
+def get_embedding(text):
+  text = preprocess(text)
+  encoded_input = tokenizer(text, return_tensors='pt')
+  features = model(**encoded_input)
+  features = features[0].detach().cpu().numpy() 
+  features_mean = np.mean(features[0], axis=0) 
+  return features_mean
+
+
+MODEL = "cardiffnlp/twitter-roberta-base-sep2020"
+tokenizer = AutoTokenizer.from_pretrained(MODEL)
+model = AutoModel.from_pretrained(MODEL)
+
+query = "The book was awesome"
+tweets = ["I just ordered fried chicken 🐣", 
+          "The movie was great",
+          "What time is the next game?",
+          "Just finished reading 'Embeddings in NLP'"]
+
+sims = Counter()
+for tweet in tweets:
+    sim = 1 - cosine(get_embedding(query), get_embedding(tweet))
+    sims[tweet] = sim
+
+print('Most similar to: ', query)
+print(f"{'-'*30}")
+for idx, (tweet, sim) in enumerate(sims.most_common()):
+    print("%d) %.5f %s" % (idx+1, sim, tweet))
+```
+Output: 
+
+```
+Most similar to:  The book was awesome
+------------------------------
+1) 0.99045 The movie was great
+2) 0.96650 Just finished reading 'Embeddings in NLP'
+3) 0.95947 I just ordered fried chicken 🐣
+4) 0.95707 What time is the next game?
+```
+
+## Example Feature Extraction 
+
+```python
+from transformers import AutoTokenizer, AutoModel, TFAutoModel
+import numpy as np
+
+MODEL = "cardiffnlp/twitter-roberta-base-sep2020"
+tokenizer = AutoTokenizer.from_pretrained(MODEL)
+
+text = "Good night 😊"
+text = preprocess(text)
+
+# Pytorch
+model = AutoModel.from_pretrained(MODEL)
+encoded_input = tokenizer(text, return_tensors='pt')
+features = model(**encoded_input)
+features = features[0].detach().cpu().numpy() 
+features_mean = np.mean(features[0], axis=0) 
+#features_max = np.max(features[0], axis=0)
+
+# # Tensorflow
+# model = TFAutoModel.from_pretrained(MODEL)
+# encoded_input = tokenizer(text, return_tensors='tf')
+# features = model(encoded_input)
+# features = features[0].numpy()
+# features_mean = np.mean(features[0], axis=0) 
+# #features_max = np.max(features[0], axis=0)
+```

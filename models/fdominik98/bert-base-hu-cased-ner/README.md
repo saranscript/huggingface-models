@@ -1,0 +1,1 @@
+This model is the fine-tuned model of "akdeniz27/bert-base-hungarian-cased-ner" using WikiANN-hu dataset.

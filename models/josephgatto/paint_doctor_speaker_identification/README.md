@@ -1,0 +1,1 @@
+This model is a bert for sequence classification model fine-tuned on the MedDialogue dataset. Basically, the task is just to predict if a given sentence in the corpus was spoken by the patient or doctor. 

@@ -1,0 +1,1 @@
+{"modelId": "nateraw/iris-svc", "sha": "9b16bc5c74397dd875002cdb075748376ecfb1d6", "lastModified": "2021-07-06T08:19:39.000Z", "tags": ["joblib", "sklearn"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "sklearn_model.joblib"}], "config": null, "private": false, "downloads": 1, "library_name": "sklearn", "likes": 0}

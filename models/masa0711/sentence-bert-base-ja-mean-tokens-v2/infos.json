@@ -1,0 +1,1 @@
+{"modelId": "masa0711/sentence-bert-base-ja-mean-tokens-v2", "sha": "bc62f78a510d7f6cdf7dc33cf8942c568545ea05", "lastModified": "2021-12-16T07:31:40.000Z", "tags": ["pytorch"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "pytorch_model.bin"}], "config": null, "private": false, "downloads": 0, "likes": 0}

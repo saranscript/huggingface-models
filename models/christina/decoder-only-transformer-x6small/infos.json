@@ -1,0 +1,1 @@
+{"modelId": "christina/decoder-only-transformer-x6small", "sha": "2c8566b0a3bf2a7c46ef7c6fc520dcd56dbd3e4b", "lastModified": "2021-04-17T20:45:35.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "x6small.pt"}], "config": null, "private": false, "downloads": 0, "likes": 0}

@@ -1,0 +1,1 @@
+{"modelId": "hackertec9/test", "sha": "78b4e97491e16d35f7071abe794b25c7f1ef8c8f", "lastModified": "2022-02-03T16:03:10.000Z", "tags": ["license:afl-3.0", "es", "bert", "text-classification"], "pipeline_tag": "text-classification", "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}], "config": null, "private": false, "downloads": 0, "likes": 0}

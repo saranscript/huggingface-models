@@ -1,0 +1,1 @@
+{"modelId": "bigscience/tr7b-350M-validation-alibi-tensorboard", "sha": "3291d238f12d65bebb7eaa484177242dfbab9d1f", "lastModified": "2021-09-29T13:24:47.000Z", "tags": ["tensorboard"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "events.out.tfevents.1632921090.r11i6n7.77205.0"}], "config": null, "private": false, "downloads": 0, "likes": 0}

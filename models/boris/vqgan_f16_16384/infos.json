@@ -1,0 +1,1 @@
+{"modelId": "boris/vqgan_f16_16384", "sha": "79adffafbf70392d3b968e6a65382999274f8af2", "lastModified": "2021-07-26T03:13:37.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}, {"rfilename": "config.yaml"}, {"rfilename": "model.ckpt"}], "config": null, "private": false, "downloads": 2, "likes": 1}

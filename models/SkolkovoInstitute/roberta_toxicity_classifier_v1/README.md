@@ -1,0 +1,3 @@
+This model is a clone of [SkolkovoInstitute/roberta_toxicity_classifier](https://huggingface.co/SkolkovoInstitute/roberta_toxicity_classifier) trained on a disjoint dataset. 
+
+While `roberta_toxicity_classifier` is used for evaluation of detoxification algorithms, `roberta_toxicity_classifier_v1` can be used within these algorithms, as in the paper [Text Detoxification using Large Pre-trained Neural Models](https://arxiv.org/abs/1911.00536). 

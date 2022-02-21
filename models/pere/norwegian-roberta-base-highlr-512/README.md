@@ -1,0 +1,1 @@
+Same as norwegian-roberta-base but with higher learning rate and batch size

@@ -1,0 +1,1 @@
+{"modelId": "theopfr/name-ethnicity-classification", "sha": "bb90e8f79c2a4c40147a9edf5167dc1844c14247", "lastModified": "2022-01-10T15:41:21.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "predict_ethnicity.py"}], "config": null, "private": false, "downloads": 0, "likes": 0}

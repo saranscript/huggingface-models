@@ -1,0 +1,1 @@
+{"modelId": "nateraw/cnn-dummy", "sha": "3cc0d1a11a7ece62036c1e3c020aaea2054dd648", "lastModified": "2021-09-03T20:39:32.000Z", "tags": ["pytorch"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "pytorch_model.bin"}], "config": null, "private": false, "downloads": 0, "likes": 0}

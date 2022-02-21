@@ -1,0 +1,1 @@
+{"modelId": "lysandre/elmo-2x4096_512_2048cnn_2xhighway", "sha": "20d7005306acf8a4f3654740c63bafbff99ecc1b", "lastModified": "2021-03-12T16:17:03.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "options.json"}, {"rfilename": "weights.hdf5"}], "config": null, "private": false, "downloads": 0, "likes": 0}

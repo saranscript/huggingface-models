@@ -1,0 +1,1 @@
+{"modelId": "macleginn/bert-multilingual-paws", "sha": "9bb81812143a0832c99457b5f56701634b35cfd9", "lastModified": "2021-11-11T17:20:55.000Z", "tags": ["pytorch"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "pytorch_model.bin"}], "config": null, "private": false, "downloads": 0, "likes": 0}

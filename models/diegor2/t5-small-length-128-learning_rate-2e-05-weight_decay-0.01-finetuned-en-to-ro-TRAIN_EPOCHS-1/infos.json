@@ -1,0 +1,1 @@
+{"modelId": "diegor2/t5-small-length-128-learning_rate-2e-05-weight_decay-0.01-finetuned-en-to-ro-TRAIN_EPOCHS-1", "sha": "cbe3f108fe46e5b961fb2743e1bfdf4243454248", "lastModified": "2021-12-05T15:36:55.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}], "config": null, "private": false, "downloads": 0, "likes": 0}

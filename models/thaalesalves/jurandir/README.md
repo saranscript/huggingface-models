@@ -1,0 +1,2 @@
+# DialoGPT small - Jurandir
+Este é Jurandir, o GPT-2 baseado no DialoGPT que fala português. Ele foi treinado com datasets baseados na Wikipédia e no (Brazilian Portuguese Literature Corpus)[https://www.kaggle.com/rtatman/brazilian-portuguese-literature-corpus]. O propósito deste modelo, inicialmente, é para ser usado com o servidor do KoboldAI em combinação com o bot de Discord [Jurandir](https://github.com/thaalesalves/jurandir).

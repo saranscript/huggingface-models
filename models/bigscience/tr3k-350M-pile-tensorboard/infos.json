@@ -1,0 +1,1 @@
+{"modelId": "bigscience/tr3k-350M-pile-tensorboard", "sha": "5510c8475f651b9bac3f0059e78a2556e7aee4ca", "lastModified": "2021-09-20T23:00:20.000Z", "tags": ["tensorboard"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "events.out.tfevents.1631701570.r10i2n4.4901.0"}], "config": null, "private": false, "downloads": 0, "likes": 0}

@@ -1,0 +1,1 @@
+{"modelId": "matthias-wright/vgg", "sha": "0005d8395bf245411cc08b22c26f9aa78a20872b", "lastModified": "2021-09-19T14:41:32.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}, {"rfilename": "vgg16_weights.h5"}, {"rfilename": "vgg19_weights.h5"}], "config": null, "private": false, "downloads": 0, "likes": 0}

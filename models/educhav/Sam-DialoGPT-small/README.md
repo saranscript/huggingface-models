@@ -1,0 +1,6 @@
+---
+tags:
+- conversational
+---
+
+# Samuel Adams

@@ -1,0 +1,1 @@
+{"modelId": "google-deepmind/alphafold-v2", "sha": "3713acda570699708f638bf560be8930172f7a00", "lastModified": "2021-07-20T13:13:39.000Z", "tags": ["protein-folding"], "pipeline_tag": "protein-folding", "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}], "config": null, "private": false, "downloads": 0, "likes": 0}

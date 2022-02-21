@@ -1,0 +1,1 @@
+{"modelId": "flax-community/gpt2-layout-generation", "sha": "64337968a1f748330206981372ffcc068ff54cad", "lastModified": "2021-07-09T12:14:45.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "GPT2-Large_FineTuning.ipynb"}, {"rfilename": "run_forward_gpt2_large.py"}], "config": null, "private": false, "downloads": 0, "likes": 0}

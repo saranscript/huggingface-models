@@ -1,0 +1,1 @@
+FinBert Pretrained model to be used with downstream tasks

@@ -1,0 +1,1 @@
+{"modelId": "lysandre/elmo", "sha": "7a5f7d27fc89ed248077ec099841474ca18a9aab", "lastModified": "2021-03-05T00:09:22.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "options.json"}, {"rfilename": "weights.hdf5"}], "config": null, "private": false, "downloads": 0, "likes": 0}

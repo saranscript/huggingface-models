@@ -1,0 +1,1 @@
+This model was created using xlm-roberta-base bodel and fine-tuned it using CoNLL 2003 dataset. On top of the trained model, we trained it again using a Sinhala NER data that was also formatted to the CoNLL format.

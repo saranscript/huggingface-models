@@ -1,0 +1,1 @@
+{"modelId": "luomingshuang/timit_lm", "sha": "48e6b6221bd19ffc141f9ec7c158288fdabaeb93", "lastModified": "2021-11-10T03:13:33.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "lm_3_gram.arpa"}, {"rfilename": "lm_4_gram.arpa"}], "config": null, "private": false, "downloads": 0, "likes": 0}

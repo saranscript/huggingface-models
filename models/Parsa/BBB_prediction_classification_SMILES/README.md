@@ -1,0 +1,1 @@
+A fine-tuned model based on'DeepChem/ChemBERTa-77M-MLM'for Blood brain barrier permeability prediction based on SMILES string

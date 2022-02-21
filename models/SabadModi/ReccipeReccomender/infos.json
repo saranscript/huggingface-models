@@ -1,0 +1,1 @@
+{"modelId": "SabadModi/ReccipeReccomender", "sha": "2a3722914d864dc4e3d9291ea6c62c31e3a84f96", "lastModified": "2021-12-16T08:45:07.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "MeanEmbeddingVectorizer.py"}, {"rfilename": "recipe.py"}], "config": null, "private": false, "downloads": 0, "likes": 0}

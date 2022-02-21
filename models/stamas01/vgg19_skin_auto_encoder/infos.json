@@ -1,0 +1,1 @@
+{"modelId": "stamas01/vgg19_skin_auto_encoder", "sha": "4f4ecefb6adf9e6e2a6d06ee293ad7f70e7743a8", "lastModified": "2021-10-23T06:04:31.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}, {"rfilename": "vgg19_skin_auto_encoder.pt"}], "config": null, "private": false, "downloads": 0, "likes": 0}

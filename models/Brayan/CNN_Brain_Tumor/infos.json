@@ -1,0 +1,1 @@
+{"modelId": "Brayan/CNN_Brain_Tumor", "sha": "d931615dafa85b1cba417766f48ba1e8dbbeba49", "lastModified": "2021-12-17T01:59:28.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "clasificar.py"}, {"rfilename": "modelo.h5"}, {"rfilename": "pesos.h5"}], "config": null, "private": false, "downloads": 0, "likes": 0}

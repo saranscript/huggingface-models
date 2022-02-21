@@ -1,0 +1,1 @@
+A simple Auto Encoder made up of VGG19 trained to reconstruct skin lesion images. 

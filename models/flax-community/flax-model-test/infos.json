@@ -1,0 +1,1 @@
+{"modelId": "flax-community/flax-model-test", "sha": "a85394e9f91d08d38722bd8d2bf7b985e8dd371f", "lastModified": "2021-07-09T12:13:12.000Z", "tags": ["jax"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "file.txt"}, {"rfilename": "flax_model.msgpack"}], "config": null, "private": false, "downloads": 0, "likes": 0}

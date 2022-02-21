@@ -1,0 +1,1 @@
+{"modelId": "diiogo/rt-32k", "sha": "034d2e4b3ef9e27b1551eedb91ce17ce62a88218", "lastModified": "2021-11-04T21:06:06.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "dict.txt"}, {"rfilename": "encoder.json"}, {"rfilename": "vocab.bpe"}], "config": null, "private": false, "downloads": 9, "likes": 0}

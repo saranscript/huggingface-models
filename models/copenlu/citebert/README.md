@@ -1,0 +1,1 @@
+This is the SciBERT pretrained language model further fine-tuned on masked language modeling and cite-worthiness detection on the [CiteWorth](https://github.com/copenlu/cite-worth) dataset. Note that this model should be used for further fine-tuning on downstream scientific document understanding tasks.

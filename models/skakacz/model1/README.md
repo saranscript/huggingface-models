@@ -1,0 +1,1 @@
+test opisu modelu 1

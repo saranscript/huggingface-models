@@ -1,0 +1,1 @@
+{"modelId": "Jikiwa/flax-model", "sha": "f2dbb70cde442747fc77cfb82d7e3ebf4b60894c", "lastModified": "2021-06-25T10:25:13.000Z", "tags": ["jax"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "flax_model.msgpack"}], "config": null, "private": false, "downloads": 0, "likes": 0}

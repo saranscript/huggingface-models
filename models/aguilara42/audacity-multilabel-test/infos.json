@@ -1,0 +1,1 @@
+{"modelId": "aguilara42/audacity-multilabel-test", "sha": "9fc4537b4a461a65247234d1a04093b5a11653c7", "lastModified": "2021-10-28T21:50:30.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "metadata.json"}, {"rfilename": "model.pt"}], "config": null, "private": false, "downloads": 0, "likes": 0}

@@ -1,0 +1,5 @@
+MAKE SURE TO PULL THE MODEL AT CHECKPOINT 90000 UNTIL I FIGURE OUT HOW TO FIX THE GIT HISTORY
+
+git checkout 57f0ef792a759c022b83433c7a26df52f3da3608
+
+Research supported with Cloud TPUs from Google's TPU Research Cloud (TRC)

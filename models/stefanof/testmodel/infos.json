@@ -1,0 +1,1 @@
+{"modelId": "stefanof/testmodel", "sha": "ebd552e3d41502e32f704bb1541c269a2d7d0f4e", "lastModified": "2022-02-09T15:58:59.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "huggingface-bin.test3"}, {"rfilename": "huggingface-text.test"}], "config": null, "private": false, "downloads": 0, "likes": 0}

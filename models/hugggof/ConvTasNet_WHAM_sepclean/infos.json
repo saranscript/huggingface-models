@@ -1,0 +1,1 @@
+{"modelId": "hugggof/ConvTasNet_WHAM_sepclean", "sha": "824be18a106f30105ef3fed3a470dcb031e448b7", "lastModified": "2021-10-19T19:25:37.000Z", "tags": ["audacity"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}, {"rfilename": "metadata.json"}, {"rfilename": "model.pt"}], "config": null, "private": false, "downloads": 0, "likes": 0}

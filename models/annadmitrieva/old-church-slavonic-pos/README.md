@@ -1,0 +1,1 @@
+A POS-tagger for Old Church Slavonic trained on the Old Church Slavonic UD treebank (https://github.com/UniversalDependencies/UD_Old_Church_Slavonic-PROIEL). GitHub with api: https://github.com/annadmitrieva/chu-api

@@ -1,0 +1,1 @@
+This is the BERT-Medium model from Google: https://github.com/google-research/bert#bert. A BERT model with 4 layers, 256 hidden unit size, and 4 attention heads.

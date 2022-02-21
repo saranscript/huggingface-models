@@ -1,0 +1,1 @@
+{"modelId": "jonpodtu/mixsparseOverlapConvTasNet_SUM_2spk_8k", "sha": "5e8ace7b8aa15a92425205f0f8740c1abdcf7e84", "lastModified": "2021-06-23T15:47:50.000Z", "tags": ["pytorch"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "pytorch_model.bin"}], "config": null, "private": false, "downloads": 0, "likes": 0}

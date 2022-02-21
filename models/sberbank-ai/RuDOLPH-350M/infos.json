@@ -1,0 +1,1 @@
+{"modelId": "sberbank-ai/RuDOLPH-350M", "sha": "568d1ea5af6e110507d9a38bac8c6979755d4727", "lastModified": "2022-02-04T16:54:03.000Z", "tags": ["pytorch"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}, {"rfilename": "pytorch_model.bin"}], "config": null, "private": false, "downloads": 0, "likes": 9}

@@ -1,0 +1,1 @@
+{"modelId": "Graphcore/bert-large-ipu", "sha": "3e32d459cfa5e5104d43326114c3b1cca7f07844", "lastModified": "2022-02-11T18:15:50.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}, {"rfilename": "ipu_config.json"}], "config": null, "private": false, "downloads": 0, "likes": 1}

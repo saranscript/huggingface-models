@@ -1,0 +1,1 @@
+{"modelId": "diiogo/roberta-test", "sha": "2d7eedaa8ba6ec0f6ef9dd9fb4e05d8d5f269077", "lastModified": "2021-12-16T18:41:28.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "dict.txt"}, {"rfilename": "encoder.json"}, {"rfilename": "vocab.bpe"}], "config": null, "private": false, "downloads": 0, "likes": 0}

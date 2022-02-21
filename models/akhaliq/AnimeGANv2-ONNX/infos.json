@@ -1,0 +1,1 @@
+{"modelId": "akhaliq/AnimeGANv2-ONNX", "sha": "980ee341c8a3b45ae59bb10072a4f0383d96811a", "lastModified": "2021-11-11T18:50:55.000Z", "tags": ["onnx"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "face_paint_512_v2_0.onnx"}], "config": null, "private": false, "downloads": 0, "likes": 4}

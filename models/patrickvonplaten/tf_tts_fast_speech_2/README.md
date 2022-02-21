@@ -1,0 +1,1 @@
+This is an example repo for a possible integration with TensorSpeech, see [here](https://github.com/TensorSpeech/TensorFlowTTS/pull/555).

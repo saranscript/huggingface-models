@@ -1,0 +1,1 @@
+{"modelId": "mishig/tiny-layoutlmv2-tokenclassification", "sha": "5c340f7e0716d226a8de96de4ca87ba037543a22", "lastModified": "2021-09-23T14:46:34.000Z", "tags": ["pytorch"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "pytorch_model.bin"}], "config": null, "private": false, "downloads": 0, "likes": 0}

@@ -1,0 +1,6 @@
+---
+tags:
+- conversational
+---
+
+# Evan Model

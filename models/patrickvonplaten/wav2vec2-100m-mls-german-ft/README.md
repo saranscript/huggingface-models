@@ -1,0 +1,73 @@
+---
+license: apache-2.0
+tags:
+- automatic-speech-recognition
+- multilingual_librispeech
+- generated_from_trainer
+datasets:
+- multilingual_librispeech
+model-index:
+- name: wav2vec2-100m-mls-german-ft
+  results: []
+---
+
+<!-- This model card has been generated automatically according to the information the Trainer had access to. You
+should probably proofread and complete it, then remove this comment. -->
+
+# wav2vec2-100m-mls-german-ft
+
+This model is a fine-tuned version of [facebook/wav2vec2-xls-r-100m](https://huggingface.co/facebook/wav2vec2-xls-r-100m) on the MULTILINGUAL_LIBRISPEECH - GERMAN dataset.
+It achieves the following results on the evaluation set:
+- Loss: 2.9325
+- Wer: 1.0
+
+## Model description
+
+More information needed
+
+## Intended uses & limitations
+
+More information needed
+
+## Training and evaluation data
+
+More information needed
+
+## Training procedure
+
+### Training hyperparameters
+
+The following hyperparameters were used during training:
+- learning_rate: 5e-05
+- train_batch_size: 8
+- eval_batch_size: 8
+- seed: 42
+- distributed_type: multi-GPU
+- num_devices: 8
+- total_train_batch_size: 64
+- total_eval_batch_size: 64
+- optimizer: Adam with betas=(0.9,0.999) and epsilon=1e-08
+- lr_scheduler_type: linear
+- lr_scheduler_warmup_steps: 1000
+- num_epochs: 100.0
+- mixed_precision_training: Native AMP
+
+### Training results
+
+| Training Loss | Epoch | Step | Validation Loss | Wer |
+|:-------------:|:-----:|:----:|:---------------:|:---:|
+| 8.2135        | 14.29 | 500  | 8.4258          | 1.0 |
+| 3.0031        | 28.57 | 1000 | 2.9839          | 1.0 |
+| 2.9661        | 42.86 | 1500 | 2.9402          | 1.0 |
+| 2.9584        | 57.14 | 2000 | 2.9354          | 1.0 |
+| 2.936         | 71.43 | 2500 | 2.9341          | 1.0 |
+| 2.9344        | 85.71 | 3000 | 2.9323          | 1.0 |
+| 2.9674        | 100.0 | 3500 | 2.9325          | 1.0 |
+
+
+### Framework versions
+
+- Transformers 4.13.0.dev0
+- Pytorch 1.9.0+cu111
+- Datasets 1.15.2.dev0
+- Tokenizers 0.10.3
