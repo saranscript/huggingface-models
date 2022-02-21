@@ -1,1 +1,0 @@
-Technique Classification for https://propaganda.qcri.org/ptc/index.html

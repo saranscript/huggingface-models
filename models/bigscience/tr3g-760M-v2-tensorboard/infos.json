@@ -1,1 +1,0 @@
-{"modelId": "bigscience/tr3g-760M-v2-tensorboard", "sha": "458435ba6abe86f9072a18776b1c47f2951754fd", "lastModified": "2021-09-20T23:01:23.000Z", "tags": ["tensorboard"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "events.out.tfevents.1631663104.r14i4n4.31334.0"}], "config": null, "private": false, "downloads": 0, "likes": 0}

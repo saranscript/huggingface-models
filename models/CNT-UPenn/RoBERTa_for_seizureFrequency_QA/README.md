@@ -1,3 +1,0 @@
-RoBERTa-base with additional training through the finetuning pipeline described in "Extracting Seizure Frequency From Epilepsy Clinic Notes: A Machine Reading Approach To Natural Language Processing. (To be updated upon publication)" 
-
-RoBERTa_for_seizureFrequency_QA performs extractive question answering to identify a patient's seizure freedom and/or date of last seizure using the HPI and/or Interval History paragraphs from a medical note. 

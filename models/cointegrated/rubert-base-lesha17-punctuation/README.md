@@ -1,1 +1,0 @@
-The model for https://github.com/Lesha17/Punctuation; all credits go to the owner of this repository.

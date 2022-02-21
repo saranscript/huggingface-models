@@ -1,1 +1,0 @@
-This is the model that can extract epidemiological information from rare disease abstracts.

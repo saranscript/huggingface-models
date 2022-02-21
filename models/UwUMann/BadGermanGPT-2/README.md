@@ -1,1 +1,0 @@
-Just a bad GPT-2 Network trained with almost nothing

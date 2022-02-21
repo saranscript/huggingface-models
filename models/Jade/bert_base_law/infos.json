@@ -1,1 +1,0 @@
-{"modelId": "Jade/bert_base_law", "sha": "da97fc2292f4a22f327957a971b8de4d87e6c868", "lastModified": "2021-03-08T06:59:50.000Z", "tags": ["zh_CN", "dataset:WIP", "NLP", "LAW", "license:mit"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}, {"rfilename": "readme.md"}], "config": null, "private": false, "downloads": 0, "likes": 0}

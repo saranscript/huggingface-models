@@ -1,1 +1,0 @@
-Info here: https://github.com/josephrocca/openai-clip-js

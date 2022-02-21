@@ -1,1 +1,0 @@
-distilbert model trained on positive imdb reviews

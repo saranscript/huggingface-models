@@ -1,1 +1,0 @@
-Based on Sber GPT3 small, notebook for training availible [here]()

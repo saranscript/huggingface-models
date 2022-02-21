@@ -1,1 +1,0 @@
-small gpt2 headline

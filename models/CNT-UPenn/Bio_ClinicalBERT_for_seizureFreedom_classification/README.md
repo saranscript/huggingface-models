@@ -1,3 +1,0 @@
-emilyalsentzer/Bio_ClinicalBERT with additional training through the finetuning pipeline described in "Extracting Seizure Frequency From Epilepsy Clinic Notes: A Machine Reading Approach To Natural Language Processing. (To be updated upon publication)" 
-
-Bio_ClinicalBERT_for_seizureFreedom_classification classifies patients has having seizures or being seizure free using the HPI and/or Interval History paragraphs from a medical note. 

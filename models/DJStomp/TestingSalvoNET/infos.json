@@ -1,1 +1,0 @@
-{"modelId": "DJStomp/TestingSalvoNET", "sha": "fb98e6834211fd4c00c106f3285b5a70d9be1132", "lastModified": "2021-11-08T02:15:03.000Z", "tags": ["transformers"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "config.json"}, {"rfilename": "pipeline.py"}], "config": {}, "private": false, "downloads": 2, "library_name": "transformers", "likes": 0}

@@ -1,1 +1,0 @@
-Hyperparameters: 1 epoch, max_len_dict, and 1e-5 learning rate

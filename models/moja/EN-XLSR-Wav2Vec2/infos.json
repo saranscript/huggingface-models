@@ -1,1 +1,0 @@
-{"modelId": "moja/EN-XLSR-Wav2Vec2", "sha": "67336859504b9f4f5f7a5a77db332aed91859a85", "lastModified": "2021-03-25T06:30:25.000Z", "tags": ["xlsr-fine-tuning-week"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}], "config": null, "private": false, "downloads": 0, "likes": 0}

@@ -1,1 +1,0 @@
-{"modelId": "radha1258/save", "sha": "39a102a0997ed8aa0176f26211e2ed5c44163d55", "lastModified": "2020-01-25T07:47:43.000Z", "tags": ["tf", "transformers"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "config.json"}, {"rfilename": "tf_model.h5"}], "config": {}, "private": false, "downloads": 3, "library_name": "transformers", "likes": 0}

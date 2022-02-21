@@ -1,1 +1,0 @@
-A fine-tuned model based on'gumgo91/IUPAC_BERT'for Blood brain barrier permeability prediction based on IUPAC string

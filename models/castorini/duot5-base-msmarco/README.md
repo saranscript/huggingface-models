@@ -1,5 +1,0 @@
-This model is a T5-base pairwise reranker fine-tuned on MS MARCO passage dataset for 50k steps (or 5 epochs).
-
-For more details on how to use it, check [pygaggle.ai](pygaggle.ai)
-
-Paper describing the model: [The Expando-Mono-Duo Design Pattern for Text Ranking with Pretrained Sequence-to-Sequence Models](https://arxiv.org/pdf/2101.05667.pdf)

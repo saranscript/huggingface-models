@@ -1,1 +1,0 @@
-{"modelId": "andebraa/Wind_sentiment_NorBert", "sha": "7ea335941a47647d8a7d7bc1c90bb9866fbc5113", "lastModified": "2021-10-11T07:55:21.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "ltgoslo/norbert/config.json"}, {"rfilename": "ltgoslo/norbert/pytorch_model.bin"}], "config": null, "private": false, "downloads": 0, "likes": 0}

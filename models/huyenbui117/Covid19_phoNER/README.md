@@ -1,1 +1,0 @@
-Model trained for PhoNER_COVID19 dataset

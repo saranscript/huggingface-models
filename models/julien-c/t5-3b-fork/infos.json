@@ -1,1 +1,0 @@
-{"modelId": "julien-c/t5-3b-fork", "sha": "0cd1f84a5a36cda36011bfe8bb1ec9df9ab484ba", "lastModified": "2020-11-20T15:39:22.000Z", "tags": ["pytorch"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "pytorch_model.bin"}], "config": null, "private": false, "downloads": 4, "likes": 0}

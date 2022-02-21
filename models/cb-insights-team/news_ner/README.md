@@ -1,1 +1,0 @@
-An NER model to detect company and person names from news articles.

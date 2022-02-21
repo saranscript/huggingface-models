@@ -1,1 +1,0 @@
-{"modelId": "cyl/adapter_t5-3b_qqp", "sha": "f99c7c898659f1545399a8de456a738d1bc3b3ef", "lastModified": "2022-02-15T08:49:43.000Z", "tags": ["pytorch", "transformers"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "config.json"}, {"rfilename": "pytorch_model.bin"}], "config": {}, "private": false, "library_name": "transformers", "likes": 0}

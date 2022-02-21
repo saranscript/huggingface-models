@@ -1,1 +1,0 @@
-Hi, this is Taiwan_House_Prediction.

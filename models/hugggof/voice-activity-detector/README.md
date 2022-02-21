@@ -1,1 +1,0 @@
-Silero VAD model micro. [github](https://github.com/snakers4/silero-vad)

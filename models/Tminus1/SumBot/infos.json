@@ -1,1 +1,0 @@
-{"modelId": "Tminus1/SumBot", "sha": "b8a199b7f52f0e46afaa7a4060cdb0eed511344f", "lastModified": "2021-11-27T08:26:34.000Z", "tags": ["summarization"], "pipeline_tag": "summarization", "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}, {"rfilename": "main.py"}, {"rfilename": "requirements.txt"}], "config": null, "private": false, "downloads": 0, "likes": 0}

@@ -1,3 +1,0 @@
-# Model card
-
-Model card!

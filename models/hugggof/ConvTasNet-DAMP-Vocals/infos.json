@@ -1,1 +1,0 @@
-{"modelId": "hugggof/ConvTasNet-DAMP-Vocals", "sha": "d4830768a0a176d819030eb1b0ef67cb1c96fa1e", "lastModified": "2021-10-19T19:28:08.000Z", "tags": ["audacity"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}, {"rfilename": "metadata.json"}, {"rfilename": "model.pt"}], "config": null, "private": false, "downloads": 0, "likes": 1}

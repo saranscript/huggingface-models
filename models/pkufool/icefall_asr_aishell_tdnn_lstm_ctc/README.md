@@ -1,1 +1,0 @@
-# TDNN-LSTM model for aishell with icefall

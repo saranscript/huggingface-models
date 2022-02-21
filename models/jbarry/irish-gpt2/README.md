@@ -1,1 +1,0 @@
-This model was trained on the OSCAR ga dataset for experimental purposes. The files used for training the tokenizer and model are included in this repository.

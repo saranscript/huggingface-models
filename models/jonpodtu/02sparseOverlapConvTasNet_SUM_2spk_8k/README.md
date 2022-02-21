@@ -1,1 +1,0 @@
-The following model is trained on the SUM partition of 20% overlapping mixtures

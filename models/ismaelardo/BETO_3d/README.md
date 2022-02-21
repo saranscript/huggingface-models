@@ -1,1 +1,0 @@
-Este es el primer modelo de prueba BETO_3D

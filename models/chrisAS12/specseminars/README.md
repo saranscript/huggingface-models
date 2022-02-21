@@ -1,1 +1,0 @@
-These models were made for my course project in NLP and AI special course at the University of Latvia during my first semester of study.

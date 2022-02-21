@@ -1,2 +1,0 @@
-This is the ckpt of prefix-tuning model we trained on 21 tasks using a upsampling temp of 2.
-Note: The prefix module is large due to the fact we keep the re-param weight and didn't compress it to make it more original and extendable for researchers.

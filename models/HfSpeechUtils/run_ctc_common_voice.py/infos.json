@@ -1,1 +1,0 @@
-{"modelId": "HfSpeechUtils/run_ctc_common_voice.py", "sha": "8a6cc5c069e828c9668c963692130c02733234b3", "lastModified": "2021-12-08T15:11:13.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}, {"rfilename": "run_ctc_model.py"}], "config": null, "private": false, "downloads": 0, "likes": 0}

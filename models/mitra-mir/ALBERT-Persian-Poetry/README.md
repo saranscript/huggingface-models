@@ -1,3 +1,0 @@
-A Transformer-based Persian Language Model Further Pretrained on Persian Poetry
-
-ALBERT was first introduced by [Hooshvare](https://huggingface.co/HooshvareLab/albert-fa-zwnj-base-v2?text=%D8%B2+%D8%A2%D9%86+%D8%AF%D8%B1%D8%AF%D8%B4+%5BMASK%5D+%D9%85%DB%8C+%D8%B3%D9%88%D8%AE%D8%AA+%D8%AF%D8%B1+%D8%A8%D8%B1) with 30,000 vocabulary size as lite BERT for self-supervised learning of language representations for the Persian language. Here we wanted to utilize its capabilities by pretraining it on a large corpse of Persian poetry. This model has been post-trained on 80 percent of poetry verses of the Persian poetry dataset - Ganjoor- and has been evaluated on the other 20 percent.

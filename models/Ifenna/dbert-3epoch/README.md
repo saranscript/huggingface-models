@@ -1,1 +1,0 @@
-A distilbert model fine-tuned for question answering.

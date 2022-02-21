@@ -1,1 +1,0 @@
-It's a sentiment inference model base on bert.

@@ -1,1 +1,0 @@
-Tokenizer based on `facebook/bart-large-cnn` and trained on captions normalized by [dalle-mini](https://github.com/borisdayma/dalle-mini).

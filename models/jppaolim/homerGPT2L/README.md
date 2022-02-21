@@ -1,1 +1,0 @@
-Second model for storytelling

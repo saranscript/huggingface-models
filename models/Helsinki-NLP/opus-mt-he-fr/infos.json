@@ -1,1 +1,0 @@
-{"modelId": "Helsinki-NLP/opus-mt-he-fr", "sha": "f757d3d7d146ca0e18f045292a34ad5e70709e6f", "lastModified": "2021-09-09T22:09:46.000Z", "tags": ["he", "fr", "license:apache-2.0"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}], "config": null, "private": false, "downloads": 0, "likes": 0}

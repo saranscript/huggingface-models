@@ -1,1 +1,0 @@
-{"modelId": "christina/decoder-only-transformer-x3small", "sha": "f366a3c19257e6e0ba0b63114788ba8074e60bd3", "lastModified": "2021-04-17T20:48:49.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "x3small.pt"}], "config": null, "private": false, "downloads": 0, "likes": 0}

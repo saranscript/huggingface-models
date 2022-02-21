@@ -1,1 +1,0 @@
-skt/kogpt2-base-v2에 wellness 및 일상챗봇 데이터를 fine-tuning한 모델입니다.

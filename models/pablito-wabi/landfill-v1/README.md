@@ -1,1 +1,0 @@
-Starter to detect landfill.

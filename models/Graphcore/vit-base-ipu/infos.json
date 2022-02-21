@@ -1,1 +1,0 @@
-{"modelId": "Graphcore/vit-base-ipu", "sha": "87a321aeb321e5bb08ded29fe4881b5e0f30c93d", "lastModified": "2022-02-11T18:16:15.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}, {"rfilename": "ipu_config.json"}], "config": null, "private": false, "downloads": 0, "likes": 1}

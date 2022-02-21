@@ -1,1 +1,0 @@
-https://teespring.com/dashboard/listings/113925135/edit

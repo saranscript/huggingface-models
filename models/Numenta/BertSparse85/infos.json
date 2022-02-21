@@ -1,1 +1,0 @@
-{"modelId": "Numenta/BertSparse85", "sha": "0a35af18f5c43f996c74d36b4d800044bd6d481a", "lastModified": "2021-12-03T23:14:55.000Z", "tags": ["pytorch"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "config.json"}, {"rfilename": "pytorch_model.bin"}], "config": null, "private": false, "downloads": 0, "likes": 0}

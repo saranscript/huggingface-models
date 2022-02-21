@@ -1,1 +1,0 @@
-A VQGAN-compatible model trained on screenshots of cityscapes from 90s anime. To use, direct vqgan to the model as you would vqgan_imagenet_f16_1024, faceshq, etc.

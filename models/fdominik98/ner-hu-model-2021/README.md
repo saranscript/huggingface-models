@@ -1,1 +1,0 @@
-Magyar nyelvű token classification feladatra felkészített BERT modell.

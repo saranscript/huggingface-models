@@ -1,3 +1,0 @@
----
-dataset: empathetic_dialogues
----

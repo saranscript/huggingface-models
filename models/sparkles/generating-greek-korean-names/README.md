@@ -1,1 +1,0 @@
-This generates Greek and Korean names

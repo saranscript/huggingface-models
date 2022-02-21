@@ -1,1 +1,0 @@
-{"modelId": "hugggof/voice-activity-detector", "sha": "97ae190df2f2a90f43f9c5b6e34e1703991b05b4", "lastModified": "2021-11-22T18:16:16.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}, {"rfilename": "metadata.json"}, {"rfilename": "model.pt"}], "config": null, "private": false, "downloads": 0, "likes": 0}

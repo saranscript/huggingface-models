@@ -1,1 +1,0 @@
-Testing Khmer ASR baseline.

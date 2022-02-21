@@ -1,1 +1,0 @@
-Algebraic Notation model of sequences of moves of complete chess games.

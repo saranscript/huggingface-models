@@ -1,6 +1,0 @@
-- model: klue/roberta-large
-- learning rate: 1e-4
-- lr scheduler type: linear
-- weight decay: 0.01
-- epochs: 5
-- checkpoint: 2700

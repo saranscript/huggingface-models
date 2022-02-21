@@ -1,1 +1,0 @@
-{"modelId": "CodeNinja1126/bert-q-encoder", "sha": "d22103cf3e5513969aca5e57b4dd35cfe021970f", "lastModified": "2021-05-12T01:31:17.000Z", "tags": ["pytorch"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "config.json"}, {"rfilename": "pytorch_model.bin"}], "config": null, "private": false, "downloads": 1, "likes": 0}

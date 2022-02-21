@@ -1,1 +1,0 @@
-TensorFlow version of [facebook/wav2vec2-base-960h](https://huggingface.co/facebook/wav2vec2-base-960h). Obtained using script from https://github.com/vasudevgupta7/gsoc-wav2vec2.

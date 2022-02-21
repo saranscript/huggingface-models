@@ -1,1 +1,0 @@
-{"modelId": "sadakmed/triplet-bert-base-cased", "sha": "ff0058cd87a8c16a9cb5ee0122a1ecbf31e5a2d5", "lastModified": "2021-10-29T08:56:59.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "data-config.json"}, {"rfilename": "model.pt"}], "config": null, "private": false, "downloads": 0, "likes": 0}

@@ -1,1 +1,0 @@
-This is the [General_TinyBERT_v2(6layer-768dim)](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT) ported to Huggingface transformers. 

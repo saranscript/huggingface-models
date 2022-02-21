@@ -1,1 +1,0 @@
-This is a repo with gather thoughts and experiments on the state-of-the-art techniques in NLP.

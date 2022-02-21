@@ -1,1 +1,0 @@
-{"modelId": "konodyuk/prompt_rugpt3large_summarization_mlsum", "sha": "c28f206297affa6d8fb8c2d3beddbc3794e88e11", "lastModified": "2021-12-16T09:18:47.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "prompt.json"}, {"rfilename": "prompt_provider.bin"}], "config": null, "private": false, "downloads": 0, "likes": 0}

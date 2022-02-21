@@ -1,1 +1,0 @@
-The vocabulary was obtained using the code here: https://github.com/Nithin-Holla/transformers/blob/ami/examples/research_projects/wav2vec2/ami_preprocess.py

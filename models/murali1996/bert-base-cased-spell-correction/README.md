@@ -1,1 +1,0 @@
-`bert-base-cased` trained for spelling correction. See [neuspell](https://github.com/neuspell/neuspell) repository for more details about training and evaluating the model. 

@@ -1,1 +1,0 @@
-{"modelId": "Graphcore/roberta-large-ipu", "sha": "b9aa6227d93bd62444054d49304d39351cba04f2", "lastModified": "2022-02-11T18:15:20.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}, {"rfilename": "ipu_config.json"}], "config": null, "private": false, "downloads": 0, "likes": 1}

@@ -1,1 +1,0 @@
-{"modelId": "lysandre/onnx-bart", "sha": "b2d274851069c9d976ae621f012f046389423c18", "lastModified": "2021-08-24T13:51:59.000Z", "tags": ["onnx"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "model.onnx"}], "config": null, "private": false, "downloads": 0, "likes": 2}

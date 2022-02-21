@@ -1,1 +1,0 @@
-{"modelId": "Graphcore/bert-base-ipu", "sha": "4c6351bfcc8c9b6f5032303883e04ac2c9ec67f0", "lastModified": "2022-02-11T18:16:05.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}, {"rfilename": "ipu_config.json"}], "config": null, "private": false, "downloads": 0, "likes": 1}

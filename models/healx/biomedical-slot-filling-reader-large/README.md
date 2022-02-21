@@ -1,1 +1,0 @@
-Reader model for Biomedical slot filling see https://arxiv.org/abs/2109.08564 for details. The model is initialized with [biobert-large](https://huggingface.co/dmis-lab/biobert-large-cased-v1.1).

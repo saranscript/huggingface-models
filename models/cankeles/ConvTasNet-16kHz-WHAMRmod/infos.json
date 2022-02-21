@@ -1,1 +1,0 @@
-{"modelId": "cankeles/ConvTasNet-16kHz-WHAMRmod", "sha": "77c6f781223c973eae4e6fa878403820ab58fd22", "lastModified": "2022-02-13T17:46:30.000Z", "tags": ["license:mit"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}, {"rfilename": "convtasnet-10ep.pth"}], "config": null, "private": false, "downloads": 0, "likes": 0}

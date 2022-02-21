@@ -1,1 +1,0 @@
-<h1>Hugging Face model</h1>

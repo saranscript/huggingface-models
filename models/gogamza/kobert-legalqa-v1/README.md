@@ -1,1 +1,0 @@
-Please refer : https://github.com/haven-jeon/LegalQA#train

@@ -1,9 +1,0 @@
-{'C0': 'audit_rights',
- 'C1': 'licensee_indemnity',
- 'C2': 'licensor_indemnity',
- 'C3': 'license_grant',
- 'C4': 'eula_others',
- 'C5': 'licensee_infringement_indemnity',
- 'C6': 'licensor_exemption_liability',
- 'C7': 'licensor_limit_liabilty',
- 'C8': 'software_warranty'}

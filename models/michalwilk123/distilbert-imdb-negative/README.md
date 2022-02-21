@@ -1,1 +1,0 @@
-distilbert trained on negative imdb reviews

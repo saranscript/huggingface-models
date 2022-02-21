@@ -1,1 +1,0 @@
-VietnameseQA model based on custom dataset.

@@ -1,1 +1,0 @@
-A version of https://huggingface.co/cointegrated/rut5-small-chitchat which is more dull but less toxic. 

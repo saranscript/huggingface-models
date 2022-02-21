@@ -1,1 +1,0 @@
-Frequency Distribution of Free Text SIGs from medication orders in Allscripts

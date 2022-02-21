@@ -1,1 +1,0 @@
-{"modelId": "christina/decoder-only-transformer-x4small", "sha": "01ef52e19a2c705ed7ae36601234b30e06b71b72", "lastModified": "2021-06-27T18:10:45.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "x4small.pt"}], "config": null, "private": false, "downloads": 0, "likes": 0}

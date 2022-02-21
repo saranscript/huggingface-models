@@ -1,1 +1,0 @@
-[bioformer-cased-v1.0](https://huggingface.co/bioformers/bioformer-cased-v1.0) fined-tuned on the [NCBI Disease](https://doi.org/10.1016/j.jbi.2013.12.006) dataset for 10 epochs. This fine-tuned model can be used for NER for diseases. 

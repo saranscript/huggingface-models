@@ -1,1 +1,0 @@
-C:\Users\andry\Desktop\Выжигание 24-12-2021.jpg

@@ -1,1 +1,0 @@
-{"modelId": "databuzzword/esrgan", "sha": "bc7c483933e234850fe76a1578935cf8603ff51b", "lastModified": "2021-05-25T09:29:49.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "RRDB_ESRGAN_x4.pth"}, {"rfilename": "RRDB_PSNR_x4.pth"}], "config": null, "private": false, "downloads": 0, "likes": 0}

@@ -1,6 +1,0 @@
----
-tags:
-- conversational
----
-
-#Chatbot pato

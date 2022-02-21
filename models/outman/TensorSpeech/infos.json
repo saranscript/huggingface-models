@@ -1,1 +1,0 @@
-{"modelId": "outman/TensorSpeech", "sha": "58693e6dccc9825f4d94f0a8ba51b8e129513d13", "lastModified": "2021-10-25T07:28:56.000Z", "tags": [], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "README.md"}, {"rfilename": "tacotron2-100k.h5"}], "config": null, "private": false, "downloads": 0, "likes": 0}

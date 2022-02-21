@@ -1,1 +1,0 @@
-okuma lan kardeş,im

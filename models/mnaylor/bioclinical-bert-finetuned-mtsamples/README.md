@@ -1,2 +1,0 @@
-# BioClinical BERT Fine-tuned on MTSamples
-This model is simply [Alsentzer's Bio_ClinicalBERT](https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT) fine-tuned on the MTSamples dataset, with a classification task defined in [this repo](https://github.com/socd06/medical-nlp).

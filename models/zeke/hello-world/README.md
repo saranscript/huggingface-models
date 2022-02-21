@@ -1,1 +1,0 @@
-I am a README, masquerading as a "model card"

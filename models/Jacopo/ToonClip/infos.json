@@ -1,1 +1,0 @@
-{"modelId": "Jacopo/ToonClip", "sha": "25ce4d63325b236d635c173770fcba01462f8fb9", "lastModified": "2022-01-24T22:13:35.000Z", "tags": ["onnx"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "model.onnx"}], "config": null, "private": false, "downloads": 0, "likes": 1}

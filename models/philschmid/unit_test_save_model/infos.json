@@ -1,1 +1,0 @@
-{"modelId": "philschmid/unit_test_save_model", "sha": "08e830e7ed87bb2662e95663db776196be77e189", "lastModified": "2021-09-28T14:23:10.000Z", "tags": ["transformers"], "pipeline_tag": null, "siblings": [{"rfilename": ".gitattributes"}, {"rfilename": "config.json"}], "config": {}, "private": false, "downloads": 4, "library_name": "transformers", "likes": 0}

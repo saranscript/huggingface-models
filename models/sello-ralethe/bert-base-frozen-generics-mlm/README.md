@@ -1,1 +1,0 @@
-BERT model finetuned for masked language modeling on generics dataset by freezing all the weights of pretrained BERT except the last layer. The aim is to investigate if the model will overgeneralize generics and treat quantified statements such as 'All ducks lay eggs', 'All tigers have stripes' as if these are generics.

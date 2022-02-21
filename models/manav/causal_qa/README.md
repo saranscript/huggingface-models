@@ -1,1 +1,0 @@
-This a BERT-based QA model finetuned to answer causal questions. The original model this is based on can be found [here](https://huggingface.co/deepset/bert-large-uncased-whole-word-masking-squad2).  Analysis of this model is associated with the work found at the following [repo](https://github.com/kstats/CausalQG).
